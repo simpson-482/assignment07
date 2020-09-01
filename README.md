@@ -1,4 +1,4 @@
 
-### Assignment07
-README.md Generator
+## Assignment07
+README.md generator
 simpson-482
