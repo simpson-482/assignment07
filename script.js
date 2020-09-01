@@ -34,7 +34,7 @@ async function start() {
         const myProjectDescription = userResponse.projectDescription;
 
         var myResult = (`
-# ${myProjectTitle}
+### ${myProjectTitle}
 ${myProjectDescription}
 ${myGitUserName}
 `)
