@@ -20,4 +20,4 @@ none
 
 ![JavaScript Code 1](/./Assets/Image1.png);
 ![JavaScript Code 2](/./Assets/Image2.png);
-![JavaScript Code 3](/./Assets/Image1.png);
+![JavaScript Code 3](/./Assets/Image3.png);
