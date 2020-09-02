@@ -16,8 +16,8 @@ none
 ## Project Questions
 none
 
-https://drive.google.com/file/d/1qUWSyOhbG7ciXky-uxJJjqJR7T3XnLS4/view
+[User Tutorial] (https://drive.google.com/file/d/1qUWSyOhbG7ciXky-uxJJjqJR7T3XnLS4/view)
 
-![Alt text](/./Assets/Images/Image1.png);
-![Alt text](/./Assets/Images/Image2.png);
-![Alt text](/./Assets/Images/Image1.png);
+![JavaScript Code 1](/./Assets/Images/Image1.png);
+![JavaScript Code 2](/./Assets/Images/Image2.png);
+![JavaScript Code 3](/./Assets/Images/Image1.png);
