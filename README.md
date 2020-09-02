@@ -18,6 +18,6 @@ none
 
 [User Tutorial] (https://drive.google.com/file/d/1qUWSyOhbG7ciXky-uxJJjqJR7T3XnLS4/view)
 
-![JavaScript Code 1](/./Assets/Images/Image1.png);
-![JavaScript Code 2](/./Assets/Images/Image2.png);
-![JavaScript Code 3](/./Assets/Images/Image1.png);
+![JavaScript Code 1](/./Assets/Image1.png);
+![JavaScript Code 2](/./Assets/Image2.png);
+![JavaScript Code 3](/./Assets/Image1.png);
