@@ -18,6 +18,6 @@ none
 
 https://drive.google.com/file/d/1qUWSyOhbG7ciXky-uxJJjqJR7T3XnLS4/view
 
-![Alt text](Assets/Images/Image1.png)
-![Alt text](Assets/Images/Image2.png)
-![Alt text](Assets/Images/Image1.png)
+![Alt text](/./Assets/Images/Image1.png);
+![Alt text](/./Assets/Images/Image2.png);
+![Alt text](/./Assets/Images/Image1.png);
